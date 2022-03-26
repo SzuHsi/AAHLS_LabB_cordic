@@ -1,10 +1,16 @@
 # AAHLS_LabB_cordic
 
-## description of the function
+## Description of the function
   Coordinate Rotation Digital Computer (CORDIC) is a simple and efficient algorithm for trigonometric functions based on vector rotations
+## Build flow
+1. Creat a vitis project and add the source code in src/
+2. Run CSIM and COSIM to verify the function
+3. Export the RTL code
+4. Creat a vivado project and connect the IP to the PYNQ processor
+5. Find the overlay file(.bit & .hwh) in the vivado folder
+6. Upload the overlay to the FPGA and use the host code to control the kernel
+## Platform 
+Xilinx PYNQ-z2
 
-
-- [with pipeline] in /pipeline
-- [overlay] pipeline's .bit and .hwh file in /overlay
-- 可以
+- 
 - 

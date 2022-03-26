@@ -7,9 +7,9 @@
 2. Run CSIM and COSIM to verify the function
 3. Export the RTL code
 4. Creat a vivado project and connect the IP to the PYNQ processor
->> ![This is a alt text.](/imag/sample01.PNG "This is a sample image.")
 
-
+![This is a alt text.](/imag/sample01.PNG "This is a sample image.")
+ 
 6. Find the overlay file(.bit & .hwh) in the vivado folder
 7. Upload the overlay to the FPGA and use the host code to control the kernel
 ## Result / Analysis

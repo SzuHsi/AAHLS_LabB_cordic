@@ -20,11 +20,10 @@
 
 6. Upload the overlay to the FPGA and use the host code to control the kernel
 ## Result / Analysis
+* aa
 |               | original      |       unroll  |
 |:-------------:|:-------------:|:-------------:|
-| DSP           | 2             | 0             |
-| FF            | 205           | 289           |
-| LUT           | 430           | 1086          |
+|Latency (cycle)| 62            | 8             |
 ## Platform 
 Xilinx PYNQ-z2
 

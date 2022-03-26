@@ -6,3 +6,5 @@
 
 - [with pipeline] in /pipeline
 - [overlay] pipeline's .bit and .hwh file in /overlay
+- 可以
+- 

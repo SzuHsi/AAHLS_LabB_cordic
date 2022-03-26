@@ -21,12 +21,7 @@
 6. Upload the overlay to the FPGA and use the host code to control the kernel
 ## Result / Analysis
 * Timing
-|               |original       |unroll         |
-|:-------------:|:-------------:|:-------------:|
-|Latency (cycle)| 62            | 8             |
-
-* Utilization
-|               |original       |unroll         |
+|               | original      |       unroll  |
 |:-------------:|:-------------:|:-------------:|
 | DSP           | 2             | 0             |
 | FF            | 205           | 289           |

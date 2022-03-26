@@ -1,7 +1,11 @@
 # AAHLS_LabB_cordic
 
 ## Description of the function
-  Coordinate Rotation Digital Computer (CORDIC) is a simple and efficient algorithm for trigonometric functions based on vector rotations
+*  Coordinate Rotation Digital Computer (CORDIC) is a simple and efficient algorithm for trigonometric functions based on vector rotations
+
+*  Can be used for polar-to-rectangular and rectangular-to-polar conversions
+
+*  Using only shifts and adds to performing vector rotations
 ## Build flow
 1. Creat a vitis project and add the source code in src/
 

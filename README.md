@@ -7,7 +7,7 @@
 2. Run CSIM and COSIM to verify the function
 3. Export the RTL code
 4. Creat a vivado project and connect the IP to the PYNQ processor
-
+![This is a alt text.](/image/sample01.PNG "This is a sample image.")
 
 
 
